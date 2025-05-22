@@ -11,7 +11,6 @@
 
 - 🎓 **CSE Student** | Passionate about Data Science & AI-driven solutions.
 - 🔭 Currently diving deeper into **Machine Learning, Data Visualization, and AI**.
-- 🏆 **Google Solution Challenge Hackathon** participant with **Team CodeBeasts**.
 - 🎯 Completed a **Data Science Internship** at **All Swift Solutions**.
 
 ---
